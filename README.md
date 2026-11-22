@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner Animasi -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=200&section=header&text=IlhamCysec&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0055ff&height=200&section=header&text=IlhamCySec&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
   <!-- Teks Ketik Animasi -->
   <a href="https://git.io/typing-svg">
