@@ -20,7 +20,7 @@
 <br/>
 
 ## Tentang Saya
-> *"Extract. Download. Dominate."* — Byte Hunters
+> *"IlhamCySec Founder Community Byte Hunter."*
 
 Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada *Web Application Security*, *Penetration Testing*, dan *Bug Bounty*. Saya menghabiskan waktu untuk mencari celah keamanan (vulnerability) sebelum pihak yang tidak bertanggung jawab menemukannya.
 
