@@ -19,19 +19,19 @@
 
 <br/>
 
-## 🩸 Tentang Saya
+## Tentang Saya
 > *"Extract. Download. Dominate."* — Byte Hunters
 
 Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada *Web Application Security*, *Penetration Testing*, dan *Bug Bounty*. Saya menghabiskan waktu untuk mencari celah keamanan (vulnerability) sebelum pihak yang tidak bertanggung jawab menemukannya.
 
-- 🔭 Saat ini saya sedang mengembangkan **Byte Tool** (Security Multi-Tools CLI).
-- 🏆 Aktif dalam program Bug Bounty di berbagai platform (HackerOne, Bugcrowd).
-- 👨‍💻 Founder dari komunitas **Byte Hunters** — Wadah belajar keamanan siber.
-- 💬 Tanya saya tentang: `Python`, `Web Security`, `Linux`, `OSINT`.
+- Saat ini saya sedang mengembangkan **Byte Tool** (Security Multi-Tools CLI).
+- Aktif dalam program Bug Bounty.
+- Founder dari komunitas **Byte Hunters** — Wadah belajar keamanan siber.
+- Tanya saya tentang: `Python`, `Web Security`, `Linux`, `OSINT`.
 
 ---
 
-## 🛠️ Tech Stack & Senjata
+## Tech Stack & Senjata
 <div align="center">
   
   **Bahasa Pemrograman & Scripting:**
@@ -59,12 +59,12 @@ Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada 
 
 ---
 
-## 🚀 Project Unggulan
+## Project Unggulan
 
 <table border="0">
   <tr>
     <td width="50%">
-      <h3 align="center">🩸 Web2Zip</h3>
+      <h3 align="center">Web2Zip</h3>
       <p align="center">Full Website Crawler & Cloner</p>
       <p align="center">
         Tool Python untuk mengunduh seluruh halaman website beserta asetnya (CSS, JS, Gambar) dan mengemasnya jadi file .ZIP. Dilengkapi Bypass WAF dasar.
@@ -74,7 +74,7 @@ Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛠️ Byte Tool</h3>
+      <h3 align="center">Byte Tools</h3>
       <p align="center">Cyber Security Multi-Tools</p>
       <p align="center">
         Perkakas CLI serba bisa untuk cek Header Web, Port Scanner, WHOIS, Subdomain Finder, IP Tracker, dan deteksi CMS.
@@ -88,7 +88,7 @@ Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada 
 
 ---
 
-## 📊 Statistik GitHub
+## Statistik
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IlhamCysec&show_icons=true&theme=dark&hide_border=true&title_color=0055FF&icon_color=0055FF&text_color=ffffff&bg_color=0D1117" alt="IlhamCysec GitHub Stats" />
@@ -100,7 +100,7 @@ Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada 
 
 ---
 
-## 🤝 Mari Terhubung
+## Mari Terhubung
 
 <div align="center">
   <a href="https://github.com/IlhamCysec">
