@@ -19,7 +19,7 @@
 
 <br/>
 
-## Tentan Saya
+## Tentang Saya
 Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada *Web Application Security*, *Penetration Testing*, dan *Bug Bounty*. Saya menghabiskan waktu untuk mencari celah keamanan (vulnerability) sebelum pihak yang tidak bertanggung jawab menemukannya.
 
 - Saat ini saya sedang mengembangkan **Byte Tools** (Security Multi-Tools CLI).
