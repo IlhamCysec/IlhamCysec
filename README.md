@@ -62,13 +62,13 @@ Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada 
 <table border="0">
   <tr>
     <td width="50%">
-      <h3 align="center">Web2Zip</h3>
-      <p align="center">Full Website Crawler & Cloner</p>
+      <h3 align="center">(S.T.A.V)</h3>
+      <p align="center">Shell Trap Anti Virus</p>
       <p align="center">
-        Tool Python untuk mengunduh seluruh halaman website beserta asetnya (CSS, JS, Gambar) dan mengemasnya jadi file .ZIP. Dilengkapi Bypass WAF dasar.
+        Tool Python untuk memblokir perintah berbahaya.
       </p>
       <p align="center">
-        <a href="https://github.com/IlhamCysec/web2zip">Repo Web2Zip</a>
+        <a href="https://github.com/IlhamCysec/web2zip">(S.T.A.V)</a>
       </p>
     </td>
     <td width="50%">
