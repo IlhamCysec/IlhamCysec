@@ -19,12 +19,10 @@
 
 <br/>
 
-## Tentang Saya
-> *"IlhamCySec Founder Community Byte Hunter."*
-
+## Tentan Saya
 Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada *Web Application Security*, *Penetration Testing*, dan *Bug Bounty*. Saya menghabiskan waktu untuk mencari celah keamanan (vulnerability) sebelum pihak yang tidak bertanggung jawab menemukannya.
 
-- Saat ini saya sedang mengembangkan **Byte Tool** (Security Multi-Tools CLI).
+- Saat ini saya sedang mengembangkan **Byte Tools** (Security Multi-Tools CLI).
 - Aktif dalam program Bug Bounty.
 - Founder dari komunitas **Byte Hunters** — Wadah belajar keamanan siber.
 - Tanya saya tentang: `Python`, `Web Security`, `Linux`, `OSINT`.
