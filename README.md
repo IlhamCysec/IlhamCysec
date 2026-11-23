@@ -5,7 +5,7 @@
 
   <!-- Teks Ketik Animasi -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0055FF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Ilham+Rizki+Fauzi;Ethical+Hacker+%26+Bug+Hunter;Founder+of+Byte+Hunters+Community;Open+for+Security+Collaboration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0055FF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Ilham;Ethical+Hacker+%26+Bug+Hunter;Founder+of+Byte+Hunters+Community;Open+for+Security+Collaboration" alt="Typing SVG" />
   </a>
 
   <br/>
